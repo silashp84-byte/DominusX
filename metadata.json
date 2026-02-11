@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Forex Breakout Pro 1",
+  "description": "Professional Forex market signal dashboard with EMA 10/20/50 analysis, volume-confirmed breakout detection, and audio alerts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
